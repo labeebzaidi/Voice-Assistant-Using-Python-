@@ -1,0 +1,2 @@
+
+            articles = data.get('articles', [])
